@@ -49,7 +49,7 @@ $ sudo apt install mailutils
 - Clone this repo
 
 ```shell
-$ git clone xxxxxxxxxxxx
+$ git clone https://github.com/FlameSky-S/QuotaWatcher.git
 ```
 
 - Put the scripts anywhere you want.

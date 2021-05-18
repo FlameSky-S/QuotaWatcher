@@ -60,7 +60,7 @@ $ mv QuotaWatcher /path/to/destination
 
 ### 3. Run
 
-Run `main.py` periodically to update databse and send mails to users. You can use crontab, see [below](#Set-up-cronjobs-using-crontab) for an example.
+Run `main.py` periodically to update databse and send mails to users. You can use crontab, see [below](#2.-Set-up-cronjobs-using-crontab) for an example.
 
 Run `python database.py` to clear all data in database.
 

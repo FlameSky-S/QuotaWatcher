@@ -1,6 +1,6 @@
 # QuotaWatcher
 
-`QuotaWatcher` is developed to meet the needs of a over-quota notifying program that is smarter than `warnquota`. The program keeps track of whether it has notified a user or not, and will not repeatedly send mails when called multiple times. So it is safe to schedule a run of `QuotaWatcher` much more frequently without having to worry about bombing users' inbox with tons of mails.
+`QuotaWatcher` is an over-quota notifying program smarter than `warnquota`. The program keeps track of whether it has notified a user or not, and will not repeatedly send mails when called multiple times. So it is safe to schedule a run of `QuotaWatcher` much more frequently without having to worry about bombing users' inbox with tons of mails.
 
 This project is inspired by [asciiphil/quotanotify](https://github.com/asciiphil/quotanotify). Compared to `quotanotify`, `QuotaWatcher` uses mordern dependencies, but is not designed to suit variant needs. As a result, there are no config files included. Feel free to fork this project and modify it for your own use.
 
